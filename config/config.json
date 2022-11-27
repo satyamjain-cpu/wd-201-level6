@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "stayam",
+    "password": "heroboy",
+    "database": "wd-todo-dev",
+    "host": "127.0.0.1",
+    "dialect": "satyam"
+  },
+  "test": {
+    "username": "satyam",
+    "password": "heroboy",
+    "database": "wd-todo-test",
+    "host": "127.0.0.1",
+    "dialect": "satyam"
+  },
+  "production": {
+    "username": "bhoot",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
